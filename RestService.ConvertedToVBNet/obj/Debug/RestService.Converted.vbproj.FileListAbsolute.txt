@@ -1,0 +1,5 @@
+C:\Users\edmund\Desktop\RestService.ConvertedToVBNet\bin\RestService.dll
+C:\Users\edmund\Desktop\RestService.ConvertedToVBNet\bin\RestService.pdb
+C:\Users\edmund\Desktop\RestService.ConvertedToVBNet\obj\Debug\RestService.Converted.vbprojResolveAssemblyReference.cache
+C:\Users\edmund\Desktop\RestService.ConvertedToVBNet\obj\Debug\RestService.dll
+C:\Users\edmund\Desktop\RestService.ConvertedToVBNet\obj\Debug\RestService.pdb
